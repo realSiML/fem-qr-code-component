@@ -12,11 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: [https://github.com/realSiML/fem-qr-code-component](https://github.com/realSiML/fem-qr-code-component)
+- Live Site URL: [https://realsiml.github.io/fem-qr-code-component](https://realsiml.github.io/fem-qr-code-component)
 
 ## My process
 
