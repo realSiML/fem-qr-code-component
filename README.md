@@ -34,18 +34,24 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-By default body has `height: auto`, to center elements inside body we need to write css:
+By default body has `height: auto`, to center elements inside body, while using grid, we need to give body minimal height like this:
 
 ```css
 body {
+  display: grid;
+  place-items: center;
   min-height: 100svh;
 }
 ```
 
 ### Continued development
 
-- CSS variables;
+- CSS variables
+  - proper naming
+  - when to use and when to not
 - CSS classes naming.
+  - avoid collisions
+  - give more semantics
 
 ### Useful resources
 
